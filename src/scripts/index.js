@@ -35,3 +35,4 @@ window.onscroll = function () {
   }
   prevScroll = currentScroll;
 };
+
